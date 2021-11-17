@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "python_with_one_month"
+version = "0.1.0"
+description = "Curso de Python da One Month"
+authors = ["Igor Esposito <sposigor@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

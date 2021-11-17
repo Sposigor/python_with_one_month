@@ -1,4 +1,8 @@
-# Biblioteca
+"""
+Atividade do curso da one month
+
+"""
+# Importando as bibliotecas
 import random
 
 # Variaveis

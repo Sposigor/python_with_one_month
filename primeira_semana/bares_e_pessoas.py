@@ -6,7 +6,7 @@ Atividade do curso da one month
 import random
 
 # Variaveis
-bares = ['Bazinho da esquina', 'Barzão do tio', 'Sempre bar', 'Barzinho do tio', 'Apenas um bar']
+bares = ['Bazinho da pesquina', 'Barzão do tio', 'Sempre bar', 'Barzinho do tio', 'Apenas um bar']
 pessoas = ['Alexia', 'Lorenzo', 'Chris', 'Nutella', 'Samuel', 'Icaro', 'Felipe']
 
 # Aleatoridade das variaveis
